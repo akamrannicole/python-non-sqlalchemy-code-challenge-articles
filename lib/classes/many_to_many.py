@@ -1,5 +1,5 @@
 class Article:
-    All = [] # class attribute that stores all instances of Article
+    all = [] # class attribute that stores all instances of Article
 
     def __init__(self, author, magazine, title):
         self.author = author

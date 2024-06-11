@@ -2,7 +2,11 @@
 
 In this code challenge, you will be working with a Magazine domain.
 
-We have three models: `Author`, `Article`, and `Magazine`.
+We have three models: `Author
+
+https://github.com/akamrannicole/python-non-sqlalchemy-code-challenge-articles/assets/162133692/7b85d7dc-a997-42df-a9fe-d798328f2718
+
+`, `Article`, and `Magazine`.
 
 For our purposes, an `Author` has many `Article`s, a `Magazine` has many
 `Article`s, and `Article`s belong to both `Author` and `Magazine`.
